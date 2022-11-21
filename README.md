@@ -1,7 +1,7 @@
 # PRAKTIKUM5
-Nama: Muhammad Syahdan Junus 
-Nim : 312210285
-Kelas: TI.22.A3
+- Nama: Muhammad Syahdan Junus 
+- Nim : 312210285
+- Kelas: TI.22.A3
 
 -TUGAS BIODATA MAHASISWA-
 - Buatlah List Kosong terlebih dahulu agar fungsinya menanpung dari list list yang akan diisi.
@@ -32,5 +32,5 @@ Kelas: TI.22.A3
 
 ![finis](https://user-images.githubusercontent.com/115516758/203084180-f38d1466-286b-4e19-8835-cf38ea2784d7.PNG)
 
-#Flowchart
+(Flowchart)
 ![Flowchart](https://user-images.githubusercontent.com/115516758/203084785-966551b8-2174-46be-b786-457bded48b9b.jpg)
